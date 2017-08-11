@@ -67,8 +67,8 @@ $(document).ready(function(){
 
    //rabota knoplki otmena
    $('#otmena').click(function(){
-      input.hide(100);
-      otmena.hide(100);
+      input.hide(500);
+      otmena.hide(500);
       addInput.show();
       addItem.hide();
    });
